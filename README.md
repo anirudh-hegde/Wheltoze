@@ -22,6 +22,7 @@ https://start.spring.io/
   ```
   cd Wheltoze
   ```
+3.Open the project on IDE(Intellij, Eclipse)
 
 ## Conclusion
-Fell free to contribute 🌐️.
+Feel free to contribute 🌐️.
