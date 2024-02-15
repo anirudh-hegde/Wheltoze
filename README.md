@@ -5,6 +5,7 @@ The application is implemented using Java Spring Boot based on Employee manageme
 
 ## Requirements
 * Java JDK.
+* Postman
 
 ## Libraries
 The following dependencies are required to build this application:
